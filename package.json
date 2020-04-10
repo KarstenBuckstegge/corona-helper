@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "styles": "node-sass styles.scss styles.css --watch"
+    "styles": "node-sass style.scss style.css",
+    "styles:watch": "node-sass style.scss style.css --watch",
+    "build": "npm install && npm run styles"
   },
   "repository": {
     "type": "git",

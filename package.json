@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/KarstenBuckstegge/corona-helper#readme",
   "dependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   },
   "devDependencies": {
     "prettier": "^2.0.4"
